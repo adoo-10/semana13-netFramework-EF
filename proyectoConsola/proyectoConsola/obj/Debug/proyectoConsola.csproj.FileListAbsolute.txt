@@ -1,0 +1,13 @@
+C:\Users\adoX1\Documents\codeVS2022\proyectoConsola\proyectoConsola\bin\Debug\proyectoConsola.exe.config
+C:\Users\adoX1\Documents\codeVS2022\proyectoConsola\proyectoConsola\bin\Debug\proyectoConsola.exe
+C:\Users\adoX1\Documents\codeVS2022\proyectoConsola\proyectoConsola\bin\Debug\proyectoConsola.pdb
+C:\Users\adoX1\Documents\codeVS2022\proyectoConsola\proyectoConsola\bin\Debug\EntityFramework.dll
+C:\Users\adoX1\Documents\codeVS2022\proyectoConsola\proyectoConsola\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adoX1\Documents\codeVS2022\proyectoConsola\proyectoConsola\bin\Debug\EntityFramework.xml
+C:\Users\adoX1\Documents\codeVS2022\proyectoConsola\proyectoConsola\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adoX1\Documents\codeVS2022\proyectoConsola\proyectoConsola\obj\Debug\proyectoConsola.csproj.AssemblyReference.cache
+C:\Users\adoX1\Documents\codeVS2022\proyectoConsola\proyectoConsola\obj\Debug\proyectoConsola.csproj.SuggestedBindingRedirects.cache
+C:\Users\adoX1\Documents\codeVS2022\proyectoConsola\proyectoConsola\obj\Debug\proyectoConsola.csproj.CoreCompileInputs.cache
+C:\Users\adoX1\Documents\codeVS2022\proyectoConsola\proyectoConsola\obj\Debug\proyectoConsola.csproj.CopyComplete
+C:\Users\adoX1\Documents\codeVS2022\proyectoConsola\proyectoConsola\obj\Debug\proyectoConsola.exe
+C:\Users\adoX1\Documents\codeVS2022\proyectoConsola\proyectoConsola\obj\Debug\proyectoConsola.pdb
